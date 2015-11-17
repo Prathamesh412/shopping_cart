@@ -3,7 +3,7 @@
 
 var cart = function(product){
 
-    
+    this.item = Product;
 
 };
 
