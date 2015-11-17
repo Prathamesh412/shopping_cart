@@ -39,5 +39,5 @@ function addToCart(product)
  function removeFromCart(index){
   
   itemObject.pop[index];
-  return productName + "is removed from Cart";
+//  return  + "is removed from Cart";
 }
