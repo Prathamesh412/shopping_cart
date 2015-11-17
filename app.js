@@ -38,6 +38,6 @@ function addToCart(product)
 
  function removeFromCart(index){
   
-  itemObject.pop[index];
+  
 //  return  + "is removed from Cart";
 }
